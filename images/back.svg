@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="noun_1144369_cc" transform="translate(2.000000, 2.000000)">
+                <path d="M31.9470085,14.9618781 C30.9784006,13.9808863 29.4083335,13.9848297 28.4350945,14.9758496 L16.8501177,26.7724803 C14.9678868,28.6586353 17.7902352,31.4868676 19.6724661,29.6007127 L27.5327434,21.7173098 C27.9196575,21.3292573 28.2333134,21.465501 28.2333134,22.0158108 L28.2333134,43.7659067 C28.2333134,44.8731991 29.119269,45.770837 30.2293165,45.770837 L30.2293165,45.770837 C31.3316786,45.770837 32.2253196,44.8751269 32.2253196,43.7659067 L32.2253196,22.0158108 C32.2253196,21.4629008 32.5401576,21.3304429 32.9258896,21.7173098 L40.7861669,29.6007127 C42.6673998,31.4868676 45.4907462,28.6586353 43.6085153,26.7724803 L31.9470085,14.9618781 Z" id="Shape" fill="#39464F" fill-rule="nonzero" transform="translate(30.229254, 30.000091) rotate(-90.000000) translate(-30.229254, -30.000091) "></path>
+                <circle id="Oval" stroke="#39464F" stroke-width="4" transform="translate(30.000000, 29.999998) rotate(-90.000000) translate(-30.000000, -29.999998) " cx="30" cy="29.999998" r="30"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
