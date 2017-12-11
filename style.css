@@ -47,6 +47,12 @@ hr {
 	/*margin-top: 50px;*/
 }
 
+.time-hdr {
+	text-align: center;
+	padding-top: 20px;
+	color: #39464f;
+}
+
 .lead-hr {
 	margin-top: 50px;
 }
@@ -99,7 +105,7 @@ p {
 .contacts {
 	width: 20px;
 	opacity: .5;
-	padding-right: 8px;
+	padding: 1px 8px 1px 1px;
 }
 
 .contacts:hover {
